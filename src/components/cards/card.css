@@ -1,0 +1,22 @@
+.badge {
+  top: 0%;
+  right: 6%;
+  margin: 0.2rem;
+}
+
+.card {
+  margin-bottom: 2rem;
+  transition: all ease-in-out 0.01s;
+}
+
+.card:hover {
+  border: 1px solid blue;
+  box-shadow: var(--box-shadow);
+}
+
+.img-fluid {
+  border-radius: 10px;
+}
+.result-not img {
+  width: 100%;
+}

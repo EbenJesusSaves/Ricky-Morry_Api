@@ -1,0 +1,18 @@
+.search {
+  display: flex;
+  justify-content: center;
+  margin-bottom: 2rem;
+  gap: 3rem;
+}
+
+.text {
+  width: 40%;
+  transition: all ease-out 1s;
+}
+
+.text:focus {
+  width: 80%;
+  border: solid green 1px;
+  box-shadow: var(--box-shadow);
+  border-radius: 10px;
+}

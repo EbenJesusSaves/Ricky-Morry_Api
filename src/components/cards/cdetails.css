@@ -1,0 +1,26 @@
+.main {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.front {
+  display: flex;
+  align-items: center;
+  justify-items: center;
+  gap: 3rem;
+  width: 80%;
+  margin-top: 12rem;
+  box-shadow: var(--box-shadow);
+  height: 30rem;
+  transition: all ease-in-out 1s;
+}
+
+.front img {
+  height: 25rem;
+  border-radius: 15px;
+}
+
+.front:hover {
+  transform: scale(0.9);
+}
