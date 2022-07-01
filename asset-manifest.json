@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ricky-Morry_Api/static/css/main.96b964e7.css",
+    "main.js": "/Ricky-Morry_Api/static/js/main.2ec64648.js",
+    "index.html": "/Ricky-Morry_Api/index.html",
+    "main.96b964e7.css.map": "/Ricky-Morry_Api/static/css/main.96b964e7.css.map",
+    "main.2ec64648.js.map": "/Ricky-Morry_Api/static/js/main.2ec64648.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.96b964e7.css",
+    "static/js/main.2ec64648.js"
+  ]
+}
